@@ -1,7 +1,11 @@
+html {
+	background-color: #000;
+}
+
 body {
-    background: url("https://cdn.illusionneon.com/media/catalog/product/cache/50d369f67aff56d7ae9c1cba1a93ce3e/h/e/heart-hand-neon-sign-ne805-5.jpg");
+	background: url("https://cdn.illusionneon.com/media/catalog/product/cache/50d369f67aff56d7ae9c1cba1a93ce3e/h/e/heart-hand-neon-sign-ne805-5.jpg");
 	background-size: 100%;
-    min-width: 0;
+	min-width: 0;
 }
 
 #header {
@@ -18,7 +22,8 @@ body {
 	width: 100%;
 }
 
-#mobile-navigation {background: url("") no-repeat 0 0;
+#mobile-navigation {
+	background: url("") no-repeat 0 0;
 	display: block;
 	height: 50px;
 	margin: 30px auto 0;
@@ -134,7 +139,7 @@ body {
 #body #featured {
 	overflow: hidden;
 	margin: 0 0 20px;
-    height: 300px;
+	height: 300px;
 }
 
 #body #featured img {
@@ -155,15 +160,16 @@ body {
 	font-weight: normal;
 	margin: 50px 0 10px;
 	padding: 8px 5px;
-    background: #8338ec;
+	background: #8338ec;
 }
 
-#body #featured div span {width: 50%;
+#body #featured div span {
+	width: 50%;
 	display: block;
 	font-size: 15px;
 	margin: 10px 0;
 	padding: 10px;
-    background: none;
+	background: none;
 }
 
 #body #featured div a {
@@ -202,7 +208,7 @@ body {
 
 #body>ul li a span {
 	padding: 15px 0;
-    background: none;
+	background: none;
 }
 
 #body div ul {

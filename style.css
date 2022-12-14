@@ -1,3 +1,7 @@
+html{
+    background-color: #000;
+}
+
 body {
     background: url("https://i.pinimg.com/originals/62/8c/1a/628c1ae781d327f4f704258934ab0980.jpg");
     background-size: 100%;
@@ -48,8 +52,8 @@ p a:hover {
     border: 0;
     margin: 0;
     padding: 0;
-height: 300px;
-width: 800px;
+    height: 300px;
+    width: 800px;
 }
 
 #header ul {
